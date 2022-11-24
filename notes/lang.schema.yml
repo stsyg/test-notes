@@ -1,0 +1,7 @@
+version: 1
+imports: []
+schemas:
+  - id: lang
+    title: lang
+    parent: root
+    namespace: true # lang.*
